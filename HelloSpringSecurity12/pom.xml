@@ -17,7 +17,7 @@
         <failOnMissingWebXml>false</failOnMissingWebXml>
         <jakartaee>8.0</jakartaee>
         <springframework.version>5.2.4.RELEASE</springframework.version>
-        <springsecurity.version>5.2.1.RELEASE</springsecurity.version>
+        <springsecurity.version>5.2.10.RELEASE</springsecurity.version>
     </properties>
     
     <dependencies>
